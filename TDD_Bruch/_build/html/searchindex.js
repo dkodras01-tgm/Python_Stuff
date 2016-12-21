@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{author:0,date:0,dominik:0,index:0,kodra:0,modul:0,organ:0,page:0,progress:0,revis:0,search:0,statu:0,tgm:0,version:0,wien:0,work:0},titles:["Welcome to TDD_Bruch&#8217;s documentation!"],titleterms:{bibliograph:0,content:0,document:0,field:0,indice:0,tabl:0,tdd_bruch:0,welcom:0}})

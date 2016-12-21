@@ -1,0 +1,1 @@
+Search.setIndex({envversion:50,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{author:0,content:0,date:0,dominik:0,finish:0,index:0,kodra:0,modul:0,organ:0,page:0,revis:0,search:0,statu:0,tgm:0,version:0,wien:0},titles:["Welcome to a_simple_game&#8217;s documentation!"],titleterms:{a_simple_gam:0,bibliograph:0,document:0,field:0,indice:0,tabl:0,welcom:0}})
